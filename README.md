@@ -6,3 +6,5 @@ for the page build-up, HTML is used whereas monogdb is used for the database.
 
 Authorization and authentication has also been implemented in the site at various place.
 
+![image](https://user-images.githubusercontent.com/80789344/149811652-bf86ddf6-7465-453c-a9d9-279b5136dc5d.png)
+
