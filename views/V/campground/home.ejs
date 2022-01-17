@@ -1,0 +1,13 @@
+<%- layout('../layout/boilerpalte') %>
+    <h1>All Ground</h1>
+    <a href="/campground/new">Add new camp</a>
+    <ul>
+        <% for(let camp of campgrounds) {%>
+            <li>
+                <a href="/campground/<%=camp._id%> ">
+                    <%=camp.title %>
+                </a>
+
+            </li>
+            <% } %>
+    </ul>
