@@ -15,13 +15,13 @@ Particular campground page where registered users can leave a comment.
 some of the feature are only available to logged in user.
 
 
-![image](https://user-images.githubusercontent.com/80789344/155942270-d6008ad8-941d-4ead-8b7b-1beaaef33e9a.png)
+![image](https://user-images.githubusercontent.com/80789344/155942782-a451465e-4b04-494d-bb19-4c3dd3d8bcae.png)
 creating new campground.
 
-![image](https://user-images.githubusercontent.com/80789344/155942344-077f89d7-89ff-4f8e-8a7c-c296d93d672f.png)
+![image](https://user-images.githubusercontent.com/80789344/155942872-c7a67955-19a8-44a8-a483-fe5a2af5154b.png)
 List of all the campgrounds.
 
-![image](https://user-images.githubusercontent.com/80789344/155942447-e3a50a0b-940b-4278-80aa-642063201d80.png)
+![image](https://user-images.githubusercontent.com/80789344/155942686-ddc24ffb-cfdd-4689-959c-2edc594d0597.png)
 review posted by a user.
 
 
